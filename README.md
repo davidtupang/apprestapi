@@ -1,2 +1,2 @@
 # apprestapi
-Latihan Membuat Node JS
+Membuat REST API Node JS
